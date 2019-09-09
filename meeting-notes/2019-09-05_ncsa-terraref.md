@@ -21,3 +21,5 @@ Discussion between Chris & Julian after meeting:
 Is this suspicion accurate? Am I missing something? Is there a way in Clowder to achieve this?
 
 Note: Posted this question on the Clowder Slack workspace in the #developers channel.
+
+Update: Yes, Rob confirmed this.
