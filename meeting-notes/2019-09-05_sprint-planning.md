@@ -15,6 +15,7 @@ David wants to have discussions about:
 
 - [ ] Chris and Clairessa please review this protocol for submitting extractors and update a new wone  https://docs.terraref.org/developer-manual/developing-clowder-extractors
 
-- [ ] Julian to do CUI training & give some paperwork to David to send to Maggie; then get access to GitHub and Slack channels
+- [x] Julian to do CUI training & give some paperwork to David to send to Maggie; then get access to GitHub and Slack channels
+    - Ticket: <https://github.com/az-digitalag/organization/issues/92>
 
 
