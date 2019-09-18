@@ -1,25 +1,35 @@
-# NCSA TERRA REF Meeting - 2019-09-05
+# UA Pipeline 
 
-Participants: David, Julian, Chris, Max, Rob, Sean
+2019-09-18
 
-## Gantry cache
+Present: Chris, David, Julian, Sateesh, Tony
 
-- Sean preparing document for gantry cache server, will be ready by end of week
-- [ ] Julian to review, make list of questions
-- [ ] Schedule two-hour meeting next week for questions (Chris & Julian)
+HackMD link: <https://hackmd.io/8en350gfQnafquZpsGcf1Q>
 
-## IRODS Clowder plugin
+---
 
-- [ ] Julian to look into plugin
+## Current status of Globus?
 
-Discussion between Chris & Julian after meeting:
+J: Last known, Edwin had set it up and ready to use, then we talked to Nirav (halted), and we still have to run benchmarks.
 
-- It seems there is a basic assumption in Clowder that there will be no external/direct access by end-users to the underlying data storage.
-- Reason for suspicion: There appears to be a single credential for a storage service like S3 or IRODS.
-- This means that this would be a problem if we wanted to separate different users' data 'physically', i.e. different S3 account-buckets, or different IRODS accounts.
+D: Tested some Globus transfer, and worked for bit, then didn't. Endpoint is down.
 
-Is this suspicion accurate? Am I missing something? Is there a way in Clowder to achieve this?
+T: Maintenance last week, rebooted servers, so Globus software might not have come back up afterwards.
 
-Note: Posted this question on the Clowder Slack workspace in the #developers channel.
+D: Also found out that GDrive @ UA has unlimited storage, and might store TERRA-REF data there long term. Can IRODS integrate with GDrive?
 
-Update: Yes, Rob confirmed this.
+T: Next year CyVerse Data Store will be able to use any S3 compatible service (like GDrive) as a backing store.
+
+
+## Status standing up pipeline
+
+J: Need to test with larger data, that will take a day or more to process.
+
+Postponed in favor of Makeflow PoC and BETYdb on Nomad this sprint.
+
+Made progress on BETYdb on Nomad, another few hours remaining.
+
+Will catch up with Sateesh about combining efforts on Makeflow PoC.
+
+
+
