@@ -1,35 +1,25 @@
-# UA Pipeline 
+# NCSA TERRA REF Meeting - 2019-09-05
 
-2019-09-18
+Participants: David, Julian, Chris, Max, Rob, Sean
 
-Present: Chris, David, Julian, Sateesh, Tony
+## Gantry cache
 
-HackMD link: <https://hackmd.io/8en350gfQnafquZpsGcf1Q>
+- Sean preparing document for gantry cache server, will be ready by end of week
+- [ ] Julian to review, make list of questions
+- [ ] Schedule two-hour meeting next week for questions (Chris & Julian)
 
----
+## IRODS Clowder plugin
 
-## Current status of Globus?
+- [ ] Julian to look into plugin
 
-J: Last known, Edwin had set it up and ready to use, then we talked to Nirav (halted), and we still have to run benchmarks.
+Discussion between Chris & Julian after meeting:
 
-D: Tested some Globus transfer, and worked for bit, then didn't. Endpoint is down.
+- It seems there is a basic assumption in Clowder that there will be no external/direct access by end-users to the underlying data storage.
+- Reason for suspicion: There appears to be a single credential for a storage service like S3 or IRODS.
+- This means that this would be a problem if we wanted to separate different users' data 'physically', i.e. different S3 account-buckets, or different IRODS accounts.
 
-T: Maintenance last week, rebooted servers, so Globus software might not have come back up afterwards.
+Is this suspicion accurate? Am I missing something? Is there a way in Clowder to achieve this?
 
-D: Also found out that GDrive @ UA has unlimited storage, and might store TERRA-REF data there long term. Can IRODS integrate with GDrive?
+Note: Posted this question on the Clowder Slack workspace in the #developers channel.
 
-T: Next year CyVerse Data Store will be able to use any S3 compatible service (like GDrive) as a backing store.
-
-
-## Status standing up pipeline
-
-J: Need to test with larger data, that will take a day or more to process.
-
-Postponed in favor of Makeflow PoC and BETYdb on Nomad this sprint.
-
-Made progress on BETYdb on Nomad, another few hours remaining.
-
-Will catch up with Sateesh about combining efforts on Makeflow PoC.
-
-
-
+Update: Yes, Rob confirmed this.
