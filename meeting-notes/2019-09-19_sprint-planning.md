@@ -17,4 +17,4 @@ Finished: 14:42
 
 ## TODO
 
-- [ ] Julian to create & organize tickets for Sprint 18
+- [x] Julian to create & organize tickets for Sprint 18
