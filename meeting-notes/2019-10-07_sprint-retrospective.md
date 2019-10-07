@@ -6,7 +6,7 @@ HackMD: <https://hackmd.io/dztcmg-wT--bG9CmODBGbg>
 
 ## TODO
 
-- [ ] Write a new ticket for UAUSUserlog people to add new fields (Chris)
+- [ ] Write a new ticket for UASUserlog people to add new fields (Chris)
 - [ ] Organization Issue #6, put it into Sprint 21 (David)
 - [x] Assign Sentinel detection Issue #56 to Julian (Julian)
 - [ ] Create ticket for Drone Pipeline paper abstract (Chris)
