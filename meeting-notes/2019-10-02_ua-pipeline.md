@@ -21,6 +21,8 @@ From last meeting: <https://github.com/az-digitalag/organization/blob/cd3dca53f7
     
 D: Will share Clowder metadata schema in the notes
 
+![](https://i.imgur.com/UdLSXDh.png)
+
 ## Chris
 
 - C: Not working on anything specifically TERRA REF related at the moment
