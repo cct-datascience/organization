@@ -36,7 +36,7 @@ ZenHub broke around 13:25. Will have to pick it up again.
     - [x] Create issue to brainstorm CALS support projects https://github.com/az-digitalag/organization/issues/110
 
 - Julian
-    - [ ] Create issue to document accounts used for Globus, etc.
-    - [ ] Create issue to keep track of Makeflow work
+    - [x] Create issue to document accounts used for Globus, etc.: <https://github.com/az-digitalag/organization/issues/113>
+    - [x] Create issue to keep track of Makeflow work: <https://github.com/az-digitalag/organization/issues/114>
 
 
