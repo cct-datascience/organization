@@ -41,6 +41,7 @@ Participants
    * Scripts for any data transformation
    
  * University web servers / GitHub are not data archives due to lacking preservation policies
+         * Universities can host data archives - but a random FTP page doesn't count (people commonly think it does)
  * 
 
 ### To Do
