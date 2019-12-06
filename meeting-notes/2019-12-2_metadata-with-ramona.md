@@ -15,7 +15,7 @@ Present: Emily Cain, Ramona Walls
     * Executable Jupyter Notebook ([Binder](https://mybinder.org/) button would be great)
     * `.py` script
 * Every dataset / data file needs to be described
-    * If image datasets are large and variegated, for example, people should be able to pinpoint and find exactly what they need. 
+    * If image datasets are large and varied, for example, people should be able to pinpoint and find exactly what they need. 
     * Some researchers may only be interested in a specific cultivar, specific time period, etc.
     * For tabular data, every column should be described in a data dictionary, without making unreasonable assumptions about user / domain knowledge. 
 * Gene Identifiers
