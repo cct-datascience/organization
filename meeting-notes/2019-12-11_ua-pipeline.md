@@ -83,3 +83,61 @@ Chris: Think we could address that
 
 Max: Sounds fine. But are we algorithm developers or implementors? Should we be responsible, for being on the hook for algorithms which may prove to be incorrect?
 
+David: Talk to scientists
+
+Chris: Laser workflow is relatively simple (talked to some scientist)
+
+Max: Canopy cover is a weird beast
+
+Max: David's suggestion for a weighted option could be interesting
+
+Max: Focus on images from early June where there are plants, but not full canopy cover
+
+Max: And how do we even know we got the right answer? Checking by human is not actually feasible. Eyeballing is what he did.
+
+David: I think conclusion is to stick with what we have, and go back to the algorithm developers
+
+David: New lettuce data is actually private and shouldn't be exposed in the same way the previous data was
+
+Max: Will investigate. Could make each new directory in the raw_data directory private, based on rule set for date combo (enforced in Globus)
+
+David: Will not help next group who wants _their_ data private as well
+
+David: Will go to Duke and next person to ask _how_ private they want their data to be. Might be enough to keep raw_data public, but not let the metadata be public.
+
+Max: Certainly possible. Will talk to somebody about it.
+
+David: Will follow up with PI's
+
+Max: Got a request from (Jeffrey) for processing some full-field FLIR data
+
+David: If its before October this year, then it's not private
+
+Max: OK
+
+David: Once we have a pipeline running reliably on CyVerse we could handle these kinds of requests more easily
+
+Max: New transformer creation process helps to make this easy
+
+Max: What's the state of the Makeflow for end-to-end RGB workflow?
+
+Julian: Class took it over
+
+Chris: Yeah its working
+
+David: They ran into some space issues
+
+David: Want to check with Chris, who mentioned everything is compressed
+
+Max: Yes, there _should_ be compression in the process. Has happened that this compression stage wasn't happening.
+
+Chris: Yes I've seen compression.
+
+Max: Main question answered. Seems close enough to proof-of-concept to be comfortable with switching over to Makeflow. Would be nice to have the confirmation.
+
+Chris: Yes, as soon as we have the CSV result we can compare
+
+Max: After RGB, laser
+
+Max: Action item, start on FLIR transformers
+
