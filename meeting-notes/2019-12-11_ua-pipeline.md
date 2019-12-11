@@ -2,7 +2,7 @@
 
 2019-12-11
 
-Present: Tony, Chris, Edwin, David, Eric, Julian
+Present: Tony, Chris, Edwin, David, Eric, Julian (Max, afterwards)
 
 HackMD link: <https://hackmd.io/W9Fj7N5WQzy0AxZxTKQyoA>
 
@@ -39,3 +39,37 @@ Julian: (Do not move everything at the same time, reliability, etc. Reliable ope
 Eric: Agreed. (:thumbsup: in front of proposed roadmap.)
 
 ![](https://i.imgur.com/Fk4JTyE.jpg)
+    
+
+---
+
+Max joins after first meeting finished.
+
+Max:
+
+1. Process A : FTP monitoring (for transfer from gantry)
+    - Something that looks for the new files that we need to transfer
+    - Runs on cache server
+    - Uses the FTP log for that
+2. Process B: Did we miss any files? Requeues any transfers
+    - If it finds missing files it posts it to the above process (1) which also exposes an API endpoint
+3. Process B: Same process also queues it up for deletion
+
+Max wrote 1, and J.D. wrote Process B that does steps 2 and 3
+
+Chris: Day-basis or file-basis?
+
+Max: Both
+
+Max: Need to make sure J.D. is onboard for maintaining Process B
+
+Max: Whole process could be simplified
+
+Chris: Students in ACIC class says it's taking more than 24 hours to process a day's data
+
+Max: Sounds about right
+
+Chris: I figured 12-15 hours
+
+Max: Stitching field mosaic together takes a few hours on its own
+
