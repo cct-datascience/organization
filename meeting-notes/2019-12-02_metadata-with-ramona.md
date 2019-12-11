@@ -1,5 +1,5 @@
 # Metadata Meeting with Ramona
-### 2019-12-2
+### 2019-12-02
 
 Present: Emily Cain, Ramona Walls
 
