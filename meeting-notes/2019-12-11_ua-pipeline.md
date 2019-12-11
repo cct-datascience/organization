@@ -73,3 +73,13 @@ Chris: I figured 12-15 hours
 
 Max: Stitching field mosaic together takes a few hours on its own
 
+David: Maybe we don't need the orthomosaic. Statistically bit more complicated. Could calculate canopy cover per plot.
+
+Max: Worried about what problems and errors we'd introduce
+
+Chris: Think we could address that
+
+(Some talk about keeping track of pixels, averaging, rectangles, etc.)
+
+Max: Sounds fine. But are we algorithm developers or implementors? Should we be responsible, for being on the hook for algorithms which may prove to be incorrect?
+
