@@ -28,7 +28,7 @@
   * `Tag` is the registry of the container
   * If `entry point` is already specified in the Dockerfile, you do not need to fill this in when creating the App on the DE
   * `UID` = container permissions within the group
-  * Set container port (e.g., 8888 for JupyterLab)
+  * Set container port (e.g., 8888 for JupyterLab or 8787 for Rstudio)
   * Port must be exposed in Dockerfile and also opened in VICE App
   * (Don't need to mess around with command line?)
 * Save, close, and share as needed - will now show up in Your Apps
