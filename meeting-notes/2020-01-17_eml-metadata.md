@@ -23,7 +23,7 @@ generate your own metadata using the R packages [dataspice](https://docs.ropensc
 * constructor functions help generate metadata
 ```
 me <- eml$individualName(givenName = "Jeanette",
-                         surName = "Clarke")
+                         surName = "Clark")
 
 doc <- list(packageId = "dataset-1", system = "local",
             dataset = eml$dataset(title = "A minimial valid EML dataset",
