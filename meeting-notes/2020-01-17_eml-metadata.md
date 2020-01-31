@@ -75,7 +75,7 @@ atts <- data.frame(attributeName = c("time", "temperature", "sitename"),
                    formatString = c("HH:MM:SS", NA, NA),
                    definition = c(NA, NA, "plot location"))
 ```
-* To generate `attributeList`:
+* To generate `attributeList` to describe the variables in a `dataTable`:
 ```
 doc$dataset$dataTable$attributeList <- set_attributes(attributes = atts,
                                                       col_classes = c("Date", "numeric", "character"))
