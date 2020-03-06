@@ -23,6 +23,7 @@ Makeflow steps (in addition to raw input data)
      will not be processing any more data and are trying to get the data off
      their servers. (According to Max)
 - How to know a scan is done?
+    - **UPDATE 2020-03-06:** While visiting the gantry (2020-02-28) we talked to Jeffrey about getting access to the raw CSV of the scan log. See [Google sheet of scan log](https://docs.google.com/spreadsheets/d/1dZYE6UbF9rmYuUNLkpUNJzXkc7kHPAZhoBxQtGuCUXc/edit?usp=sharing)
     - Look at Google doc from when Rob & Max were in town
     - Look at scan IDs
     - Pull in order of ascending scan IDs
