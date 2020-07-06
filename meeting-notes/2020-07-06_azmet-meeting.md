@@ -71,7 +71,7 @@ State run mesonet.
 - Toby: They do have some tracking who's using
 - Matt: _Must_ maintain legacy format access, but reduce operator intervention 'to the floor'
     - If there is staffing, human involvement should be 'talking to people', equivalent of 'sales', and community relationship
-- Hardware maintenance not being done
+- Hardware maintenance not being done as often as originally envisioned
 - Q: David - what kind of technologies have you looked at? (Databases & APIs)
     - Answer: (Toby) Campbell Scientific products, LoggerNet, but mainly want to move to more modern scripting
     - Answer: (Matt H) LoggerNet -> database, cost prohibitive ($2200 license). Oracle is not an option, Windows-based, but there is some Linux solution
