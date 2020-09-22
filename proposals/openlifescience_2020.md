@@ -1,0 +1,196 @@
+
+# Tell us about your open life science project\!
+
+*Your project doesn’t have to be technical — it can be a curriculum
+(open educational resource), an open data project or report, an open
+source software project, open publication, community/team culture
+movements, or anything else that:*
+
+*1. supports openness in life science.*  
+*2. has something to work on (a feature, module, or minimum viable
+product) during the program*  
+*3. allows and welcomes contributions by others*
+
+*Whether your project is just an idea at this stage or something that’s
+been running for years, all applications are welcome.*
+
+## Primary Contact
+
+**First name:** Kristina
+
+**Last name:** Riemer
+
+**Affiliation:** University of Arizona (located in Tampa, FL)
+
+**Email:** <kristinariemer@email.arizona.edu>
+
+**Country:** United States of America
+
+**Preferred pronouns:** she/her
+
+**GitHub ID (optional):** KristinaRiemer
+
+**Twitter ID (optional):** @KristinaRiemer
+
+**Group Members**  
+If you’re applying as a group, list all your group members here with the
+following info: Name / Email / Location / GitHub ID / Twitter ID /
+Affiliation  
+David LeBauer / <dlebauer@email.arizona.edu> / Tucson, AZ / dlebauer /
+@dlebauer / University of Arizona  
+Emily Cain / <ejcain@email.arizona.edu> / Tucson, AZ / MagicMilly /
+@magic\_milly / University of Arizona  
+Jorge Barrios / <jorgebarrios@email.arizona.edu> / Tucson, AZ /
+Sithyphus / NA / University of Arizona
+
+## Your project
+
+**Project or Organization Name:**  
+Improving Documentation for Open Data and Software in the Agricultural
+Research Community
+
+**Description of the project**  
+max. 200 words
+
+We are members of the Data Infrastructure for Agriculture Group at The
+University of Arizona. Our mission is to provide scientists with open
+software, data, and computing that improves development of productive
+and sustainable agricultural systems. One of our persistent hurdles has
+been enabling and motivating the community to use our software and data.
+
+To address this, our project will focus on improving documentation for
+data and software that our group develops, as well as identifying and
+sharing best practices with the broader community. We will include the
+TERRA REF project (<https://docs.terraref.org/>), which produces
+high-resolution sensor data on crop plants, and the drone pipeline
+(<https://osf.io/xdkcy/wiki/home/>), which automates steps in the use of
+drones to study crops. Both projects produce open data (CC0 and CC-BY)
+and software (MIT/BSD compatible).
+
+Our goal is to make our products more usable for our intended audience,
+which is primarily scientists across a range of disciplines from
+computer science to remote sensing. We plan to have each person in the
+group complete a sub-project that can be finished in 15 weeks. Each
+sub-project would result in an accompanying blog post describing the
+best practices implemented.
+
+**What problem(s) are you solving with this project?**  
+max. 200 words  
+As is the case with much open scientific research, the software and data
+produced by our group’s projects are complex, resulting in independent
+contributors finding it difficult to get started with both using and
+contributing to this work. Some of this difficulty is due to users not
+being able to get started quickly and navigate the documentation. Our
+existing documentation for both TERRA REF and the drone pipeline is
+extensive, but dense and outdated. It is difficult to keep documentation
+in-step with changes or additions to data and code, and it is possible
+that those of us writing documentation are so familiar with the products
+that we leave gaps for crucial content.
+
+As a result of these challenges with producing and then maintaining high
+quality, intuitive documentation, it is difficult for us to build a
+community around our software and data and meet one of the primary
+objectives of our group, which is to build software that is used and
+contributed to by a broader community, so that researchers can spend
+less time on infrastructure and more time on science.
+
+**What concrete achievements do you want to accomplish during the
+program (January - April 2020)?**  
+max. 200 word
+
+  - 3-4 sub-projects that result in improved documentation for our data
+    and software. Sub-project examples:
+      - Create a page in TERRA REF tutorials
+        (<https://terraref.github.io/tutorials/>) describing how to make
+        a contribution to the documentation and create 5-10 new issues
+        good for first timers, similar to First Contributions project
+        (<https://firstcontributions.github.io/>)
+      - Write a series of questions about the basic functionality of the
+        drone processing pipeline that should be able to to be answered
+        from the documentation, then have new users answer these
+        questions and assess how difficult it was to find the answers
+  - A series of blog posts describing different best practices and how
+    we used them in our documentation
+  - A methods article, similar to the PLOS “Ten Simple Rules”-style
+    publications, that synthesizes these general principles about how to
+    produce good documentation that allows users to use and contribute
+    to open science products
+
+**What is the current stage of your project or work?**  
+(select one)  
+I have a great idea  
+Working towards a first prototype  
+Just launched first prototype  
+**Working on new release / feature on existing prototype**  
+Maintaining work on existing prototype
+
+**Where would you like to be after the program (April 2020)?**  
+(select one)  
+I have a great idea  
+Working towards a first prototype  
+Just launched first prototype  
+Working on new release / feature on existing prototype  
+**Maintaining work on existing prototype**
+
+## Open Science
+
+**What inspires you to work openly in life science?**  
+max. 200 words  
+Making scientific products open, accessible, and usable ensures that
+scientific progress is faster and more accurate. It does not make sense
+to have scientists duplicating efforts to collect data or write code
+when they could share these products, especially allowing individuals to
+specialize in certain types of tasks and then collaborate with other
+efforts. Working openly can make it more difficult for unethical
+research to be propagated, if all research inputs and outputs are
+provided openly. Similarly, open resources can lower some barriers for
+scientists from disadvantaged communities.
+
+**What challenges have you faced in working in open science?**  
+max. 200 words  
+This project is specifically motivated by instances when I have tried to
+use data collected by others that has insufficient metadata and
+documentation. It would have been a risk to use these data and hope that
+it is suitable for what I’m doing, and also removes the extended value
+that could have been gotten from data that are provided openly but not
+usable. I want to make sure that the data and software that our group
+provides is usable when appropriate.
+
+Additionally, in developing both the TERRA REF project and the PEcAn
+project (<https://pecanproject.github.io/>), we have found it
+challenging to coordinate communities around shared software solutions,
+and to expand our communities beyond the original core teams involved in
+the project. Even within a team distributed across institutions, it is
+difficult to collaborate on shared software and data.
+
+## Open Life Science program
+
+**What are you hoping to learn during this program?**  
+max. 200 words  
+How and which parts of pre-existing documentation to improve that will
+provide the most value for the effort. Also, how to make it easier and
+incentivize both our group and potential users to improve documentation
+for our datasets and code.
+
+**What do you expect from a mentor?**  
+max. 200 words  
+We are looking for a mentor who has experience in developing communities
+around shared software tools, as well as with writing the documentation
+and other materials that enable these communities. We would also
+appreciate a mentor who can help us to assess the effectiveness of the
+outreach strategies, such as documentation and training, that we create.
+
+**Do you speak any languages other than English?**  
+If yes, please list them.  
+No.
+
+**Which time zone you are in?**  
+You can find yours here: <https://www.timeanddate.com/time/zones/>  
+EST (UTC -5) & MT (UTC -7/-6).
+
+**What times of the day are you usually available to participate in
+video calls?**  
+If you are likely to have internet connectivity issues you are still
+welcome to apply; we will endeavour to find ways to make this workable
+and will record all calls.  
+9am - 5pm M-F in those time zones, with some flexibility.

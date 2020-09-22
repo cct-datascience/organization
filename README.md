@@ -1,2 +1,2 @@
 # organization
-initial repository for orgnaizing group activities
+initial repository for organizing group activities
