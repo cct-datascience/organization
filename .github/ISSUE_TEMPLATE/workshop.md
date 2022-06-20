@@ -15,6 +15,8 @@ assignees: ''
 
 # Tasks
 
+More detailed instructions for specific steps here: <https://osf.io/tzmhp/wiki/Workshops/>
+
 ## Organizing the event
 
 -   [ ] Identify presenter, title, description
@@ -32,7 +34,7 @@ assignees: ''
 -   [ ] Provide homework / background reading as appropriate (installation, references, etc.)
 -   [ ] Send out reminders
 -   [ ] Create pre- and post-workshop surveys
--   [ ] Send out pre-workshop survey <!--# is this different from the questions added for the Zoom event? -->
+-   [ ] Send out pre-workshop survey [WIP]
 
 ## During Event
 
