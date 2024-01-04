@@ -42,3 +42,5 @@ More detailed instructions for specific steps here: <https://cct-datascience.git
   - [ ] Add links to recording and materials
   - [ ] Check the "Archive" checkbox
 - [ ] Follow up email with post-workshop survey and invite participants to office hours
+- [ ] Download Zoom reports and add registration information to [this sheet](https://docs.google.com/spreadsheets/d/1SU8Wtx7Ku1IMv8DOAU-37E12-AZP0CjnRy1vPSkmNGQ/edit#gid=0)
+- [ ] Add new registrants (who opted in) to the listserv in myEmma
