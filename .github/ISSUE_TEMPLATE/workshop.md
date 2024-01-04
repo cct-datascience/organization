@@ -27,7 +27,7 @@ More detailed instructions for specific steps here: <https://cct-datascience.git
   - [ ] Add an event to the [group website workshops page](https://datascience.cals.arizona.edu/workshops)
   - [ ] Add to Data Science Institute calendar <https://datascience.arizona.edu/calendar>
   - [ ] Include announcement in the next mailing list email
-  - [ ] resBazAZ and UA Data Science Slack
+  - [ ] Announce on resBazAZ and UA Data Science Slack
 
 ## Before workshop
 
