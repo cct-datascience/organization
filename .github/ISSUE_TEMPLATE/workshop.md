@@ -34,7 +34,7 @@ More detailed instructions for specific steps here: <https://cct-datascience.git
 - [ ] Provide homework / background reading as appropriate (installation, references, etc.)
 - [ ] Send out reminders
 
-## Followup
+## Follow-up tasks
 
 - [ ] Merge PR to [CALS-workshops repo](https://github.com/cct-datascience/CALS-workshops) <!--# could happen before workshop too.  Not sure how people usually use this repo -->
 - [ ] Post Zoom recording to YouTube
